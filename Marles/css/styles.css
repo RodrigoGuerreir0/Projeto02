@@ -1,0 +1,21 @@
+
+.marlesTextil dropdown-menu {
+    display: none;
+}
+
+.show {
+    display: block;
+}
+.titulo{
+    color: black;
+    
+}
+.texto-esquerdo{
+    color: rgba(5, 5, 5, 0.562);
+    text-size-adjust: 50px;
+}
+.texto-direita{
+    float: right;
+    color: rgba(5, 5, 5, 0.562);
+    text-size-adjust: 50px;
+}
